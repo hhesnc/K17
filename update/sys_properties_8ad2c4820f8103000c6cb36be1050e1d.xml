@@ -11,7 +11,7 @@
         <sys_class_name>sys_properties</sys_class_name>
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2017-09-08 00:37:42</sys_created_on>
-        <sys_customer_update>true</sys_customer_update>
+        <sys_customer_update>false</sys_customer_update>
         <sys_id>8ad2c4820f8103000c6cb36be1050e1d</sys_id>
         <sys_mod_count>0</sys_mod_count>
         <sys_name>x_9354_k17.logging.destination</sys_name>
