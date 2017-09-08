@@ -4,7 +4,7 @@
         <sys_class_name>sys_security_acl_role</sys_class_name>
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2017-09-07 23:50:06</sys_created_on>
-        <sys_customer_update>true</sys_customer_update>
+        <sys_customer_update>false</sys_customer_update>
         <sys_id>60287f790f4103000c6cb36be1050e7f</sys_id>
         <sys_mod_count>0</sys_mod_count>
         <sys_name>x_9354_k17_table.x_9354_k17.user</sys_name>
